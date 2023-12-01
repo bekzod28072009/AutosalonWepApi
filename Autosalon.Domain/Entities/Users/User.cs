@@ -1,10 +1,5 @@
 ﻿using Autosalon.Domain.Commons;
 using Autosalon.Domain.Entities.Cars;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Autosalon.Domain.Entities.Users
 {
