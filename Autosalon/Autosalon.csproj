@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Autosalon.DataAcces\Autosalon.DataAcces.csproj" />
+    <ProjectReference Include="..\Autosalon.Domain\Autosalon.Domain.csproj" />
   </ItemGroup>
 
 </Project>
