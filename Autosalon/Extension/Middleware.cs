@@ -23,7 +23,7 @@ namespace Autosalon.Extension
             services.AddTransient<ICarService, CarService>();
             services.AddTransient<IUserService, UserService>();
         }
-
+        
         public static void AddRepository(this IServiceCollection services)
             {
                 services.AddTransient<IGenericRepository<Car>, GenericRepository<Car>>();
